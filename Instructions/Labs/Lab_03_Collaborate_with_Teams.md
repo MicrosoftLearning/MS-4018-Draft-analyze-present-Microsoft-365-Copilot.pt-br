@@ -6,12 +6,12 @@ Imagine que você é um gerente da Contoso. Sua equipe depende de uma comunicaç
 
 1. Abra o Microsoft Teams navegando até a seguinte URL: [https://teams.microsoft.com](https://teams.microsoft.com).
 
-1. Para começar, crie um novo canal no chat da sua equipe para essa conversa. Selecione **New channel** no menu suspenso Chat.
+1. Para começar, crie uma nova Equipe no chat da sua equipe para essa conversa. Selecione **New Team** no menu suspenso Chat.
 
-    - Adicionar o canal a uma equipe: **People & Culture**
-    - Nome do canal: +++Contoso Connect+++.
+    - Adicione a equipe: +++Pessoas e Cultura+++
     - Descrição: deixe em branco
-    - Tipo de canal: **Privado**
+    - Tipo de equipe: **Private**
+    - Nome do canal: +++Contoso Connect+++
     - Adicionar membros: selecione **Skip**
 
 1. Selecione **Start a post** para abrir a janela de bate-papo.

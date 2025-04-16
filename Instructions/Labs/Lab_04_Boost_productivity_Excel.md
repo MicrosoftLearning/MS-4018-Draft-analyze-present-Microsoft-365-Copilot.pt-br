@@ -26,6 +26,8 @@ Para ter uma ideia das tendências do mercado, você deve primeiro entender o de
 
 1. Selecione **Add to a new sheet** para incluir esses dados em sua pasta de trabalho do Excel.
 
+1. Revise a tabela. Quando terminar, selecione **Voltar aos dados** para retornar à Planilha 1.
+
 #### Exercício 2 - Identificar tendências de vendas
 
 Como gerente de vendas, é necessário identificar tendências nos dados de vendas a fim de tomar decisões informadas. Vamos saber qual é o total de vendas de chai ao longo do ano e procurar padrões ou tendências que possam ajudar a melhorar as estratégias de vendas.
@@ -38,6 +40,8 @@ Como gerente de vendas, é necessário identificar tendências nos dados de vend
 
 1. Revise a resposta do Copilot e se deseja adicionar o Gráfico Dinâmico a uma nova planilha.
 
+1. Se você adicionou um novo Gráfico Dinâmico, selecione **Voltar aos dados** para retornar à Planilha 1.
+   
 1. Para obter uma visualização rápida dos meses com as vendas mais bem-sucedidas, insira o seguinte prompt:
 
     +++Destaque os três meses com as maiores vendas totais.+++
@@ -56,9 +60,11 @@ Para otimizar suas ofertas de produtos, é preciso comparar as vendas de diferen
 
 1. O Copilot exibe o gráfico de barras. Selecione **Add to a new sheet**.
 
-    É possível ver uma grande variação de vendas nos meses de verão. Para entender que tipo de chá está vendendo melhor, você pode pedir ao Copilot para determinar qual categoria de produto teve melhor desempenho geral, digitando o seguinte prompt:
+1. Depois de revisar os resultados do gráfico de barras, selecione **Voltar aos dados** para retornar à Planilha 1.
+   
+É possível ver uma grande variação de vendas nos meses de verão. Para entender que tipo de chá está vendendo melhor, você pode pedir ao Copilot para determinar qual categoria de produto teve melhor desempenho geral, digitando o seguinte prompt:
 
-    +++Resuma o total de vendas (unidades) do Artisanal Chai e do Premade Chai durante o verão.+++
+    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
 
 #### Exercício 4 - Calcular o total de vendas
 
@@ -92,13 +98,13 @@ Por fim, vamos resumir os principais insights da análise. Esses insights ajudam
 
 1. No painel aberto do Copilot, insira o seguinte prompt:
 
-    +++Forneça um resumo dos principais insights da análise dos dados de tendências de mercado do chá Chai da Contoso.+++
+    +++Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.+++
 
 #### Exercício 7 – Envie seus insights para a equipe
 
 Depois de coletar insights sobre as tendências do mercado, você pode compartilhar as informações com as partes interessadas. Confira como o Copilot no Outlook pode ajudar:
 
-1. **Copie** a resposta gerada pelo Copilot no Excel.
+1. **Copie** a resposta de texto gerada pelo Copilot no Excel.
 
 1. Abra o Microsoft Outlook e selecione **Novo e-mail**.
 

@@ -11,7 +11,7 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### Exercício 1 - Importar notas (opcional)
+#### (Opcional) Exercício 1 — Importar notas 
 
 1. Abra o Microsoft Word e crie um novo documento.
 
@@ -40,8 +40,10 @@ Vamos criar um relatório de projeto usando a Análise de Mercado que você já 
 
 1. Digite o seguinte prompt:
 
-    +++Crie um relatório de projeto com base no conteúdo em /Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Inclua um resumo executivo, introdução, objetivos do projeto e discussão.+++
+    +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
 
+1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar o arquivo na lista suspensa assim que estiver disponível no OneDrive.
+   
 1. Revise o conteúdo redigido e selecione **Mantê-lo**.
 
 1. Ao revisar o conteúdo do seu documento, você pode descobrir que algum texto precisa ser editado ou reescrito. A seção Descrição do produto parece ser bastante curta e técnica. Vamos editar o texto para que seja mais envolvente para os nossos leitores.
@@ -91,7 +93,7 @@ Ao concluir o seu documento, você vai querer garantir que os seus pontos chave 
 
     +++Resuma este documento. Destaque os três principais pontos apresentados.+++
 
-1. Revise o resumo gerado e selecione **Insert** se quiser incluir o resumo no documento.
+1. Revise o resumo gerado e selecione **Insert** se quiser incluir o resumo no documento. Você também pode destacar qualquer parte do texto e copiá-la e colá-la no documento.
 
 > [!IMPORTANT]
 > O texto gerado pelo Copilot é inserido no ponto do cursor no documento. Certifique-se de ter navegado até o final do documento antes de inserir o conteúdo.

@@ -49,7 +49,7 @@ Agora que você tem uma ideia de possíveis perguntas, pode considerar suas resp
 
 1. No mesmo Copilot Chat, solicite ao Copilot:
 
-    +++Rascunho de respostas para as seguintes perguntas: [Lista de perguntas].+++
+    +++Draft answers for the following questions: [copy and paste list of questions here].+++
 
     Como o Copilot Chat é uma experiência iterativa, ele considera o contexto das interações de chat anteriores na mesma janela.
 
@@ -59,17 +59,21 @@ Agora que você tem uma ideia de possíveis perguntas, pode considerar suas resp
 
 Essas respostas são ótimas, e você está se sentindo confiante antes da entrevista. Agora, vamos criar uma fonte única de verdade para consultar em um momento posterior. Use o Copilot no Word para compilar as perguntas e respostas em um documento de perguntas frequentes.
 
-1. Abra o Microsoft Word e inicie um novo documento em branco.
+1. Na mesma janela do Copilot Chat, solicite ao Copilot 
 
-1. Na faixa de opções, selecione o ícone Copilot. O painel do Copilot será aberto no lado direito da tela.
+    +++Create a Word document with this output.+++
 
-1. Digite o seguinte prompt:
+    O Copilot gerará um novo documento do Word intitulado **Documento de perguntas frequentes**.
 
-    +++Crie um documento de perguntas frequentes com as seguintes perguntas e respostas: [Lista de perguntas e respostas copiadas do Copilot Chat].+++
+1. Abra este documento para revisar.
 
-1. Revise e formate o documento conforme for necessário.
+1. Ative a edição para verificar e atualizar o documento conforme necessário. 
 
-#### Exercício 6 – Enviar um e-mail de agradecimento usando o Copilot no Outlook
+1. Selecione **Arquivo > Salvar como**. Busque e navegue até a pasta do OneDrive.
+
+1. Salve o documento como **Documento de perguntas frequentes**.
+   
+#### (Opcional) Exercício 6 — Enviar um email de agradecimento usando o Copilot no Outlook
 
 1. Abra o Outlook e selecione o botão **Novo email** para começar a redigir a sua nota de agradecimento.
 
