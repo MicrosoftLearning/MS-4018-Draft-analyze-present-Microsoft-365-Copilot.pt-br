@@ -14,29 +14,22 @@ Siga as etapas abaixo para carregar todos os arquivos necessários no **OneDrive
 
 1. Faça logon na máquina virtual fornecida pelo provedor de locatários como a conta de **administrador** local com a senha `Pa55w.rd`.
 
-2. Na barra de tarefas do Windows, selecione **Microsoft Edge**.
+2. Abra o aplicativo **OneDrive** digitando **OneDrive** na barra de pesquisa do Windows.
 
-3. Na barra de endereços, insira `https://onedrive.live.com/login` .
+3. No prompt **Email address**, digite userx@yourtenant.onmicrosoft.com (fornecido pelo seu provedor de locatário) e selecione **Sign in**.
 
-4. Em **Bem-vindo ao Microsoft 365**, selecione **Entrar**.
+4. Na tela **Enter password**, insira a senha (fornecida pelo provedor de locatário) para a conta de usuário e selecione **Entrar**.
 
-5. Em **Sign-in promp**, insira userx@yourtenant.onmicrosoft.com (fornecidos pelo provedor de locatário) e selecione **Next**.
+5. Se solicitado a **Automatically sign in to all desktop apps and websites on this device?**, selecione **Yes, all apps**.
 
-6. Na tela **Enter password**, insira a senha (fornecida pelo provedor de locatário) para a conta de usuário e selecione **Entrar**.
+6. Abra a sua pasta do OneDrive.
+   
+7. Em uma nova instância do **Explorador de Arquivos**, selecione **Este PC** > **Disco Local (C:)** e abra a pasta **MS-4018 ResourceFiles**.
 
-7. Se solicitado a **Permanecer conectado**, selecione **Não mostrar isso novamente** e, em seguida, **Sim**.
+8. Selecione todos os arquivos na pasta **MS-4018 ResourceFiles** e arraste-os e solte-os na pasta do OneDrive.
 
-8. No **OneDrive**, no canto superior esquerdo, selecione **+** (adicionar novo) > **Upload de arquivo**.
+9. Quando o upload for concluído, você verá **3 itens carregados em Meus arquivos** na parte inferior central da tela.
 
-    ![Captura de tela de adicionar novo arquivo](../Labs/Media/add_new.png)
-
-9. No **Explorador de Arquivos**, selecione **Este PC** > **Disco Local (C:)** e abra a pasta **ResourceFiles.**
-
-10. Selecione todos os arquivos na pasta **ResourceFiles** e selecione **Abrir** para carregá-los no **OneDrive**.
-
-11. Quando o upload for concluído, você deverá ver **Carregado 29 itens para Meus arquivos** na parte inferior central da tela.
-
-12. Deixe o **Edge** aberto e passe para a próxima tarefa.
 
 ### Referenciar arquivos
 
