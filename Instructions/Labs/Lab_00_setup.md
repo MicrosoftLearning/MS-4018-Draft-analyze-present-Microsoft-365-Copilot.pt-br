@@ -16,7 +16,7 @@ Siga as etapas abaixo para carregar todos os arquivos necessários no **OneDrive
 
 2. Abra o aplicativo **OneDrive** digitando **OneDrive** na barra de pesquisa do Windows.
 
-3. No prompt **Email address**, digite userx@yourtenant.onmicrosoft.com (fornecido pelo seu provedor de locatário) e selecione **Sign in**.
+3. No prompt **Endereço de email**, digite userx@yourtenant.onmicrosoft.com (fornecido pelo seu provedor de locatário) e selecione **Entrar**.
 
 4. Na tela **Enter password**, insira a senha (fornecida pelo provedor de locatário) para a conta de usuário e selecione **Entrar**.
 
@@ -24,11 +24,11 @@ Siga as etapas abaixo para carregar todos os arquivos necessários no **OneDrive
 
 6. Abra a sua pasta do OneDrive.
    
-7. Em uma nova instância do **Explorador de Arquivos**, selecione **Este PC** > **Disco Local (C:)** e abra a pasta **MS-4018 ResourceFiles**.
+7. Em uma nova instância do **Explorador de Arquivos**, selecione **Este PC** > **Disco Local (C:)** e abra a pasta **ResourceFiles**.
 
-8. Selecione todos os arquivos na pasta **MS-4018 ResourceFiles** e arraste-os e solte-os na pasta do OneDrive.
+8. Selecione todos os arquivos na pasta **ResourceFiles** e arraste-os e solte-os na pasta do OneDrive.
 
-9. Quando o upload for concluído, você verá **3 itens carregados em Meus arquivos** na parte inferior central da tela.
+9. Quando o upload for concluído, você deverá ver **Carregado 29 itens para Meus arquivos** na parte inferior central da tela.
 
 
 ### Referenciar arquivos

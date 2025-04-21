@@ -13,7 +13,7 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 #### (Opcional) Exercício 1 — Importar notas 
 
-1. Abra o Microsoft Word e crie um novo documento.
+1. Abra o Microsoft Word no navegador [word.new](https://word.new) ou use o aplicativo da área de trabalho e crie um novo documento.
 
 1. Ative o Copilot selecionando o botão Copilot na guia **Início**.
 
@@ -40,10 +40,12 @@ Vamos criar um relatório de projeto usando a Análise de Mercado que você já 
 
 1. Digite o seguinte prompt:
 
-    +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource. /Market Analysis Report for Mystic Spice Premium Chai Tea.docx.+++
+    +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar o arquivo na lista suspensa assim que estiver disponível no OneDrive.
+1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Reference a file** e o arquivo na lista suspensa quando ele estiver disponível no OneDrive.
    
+1. Selecione **Gerar**.
+
 1. Revise o conteúdo redigido e selecione **Mantê-lo**.
 
 1. Ao revisar o conteúdo do seu documento, você pode descobrir que algum texto precisa ser editado ou reescrito. A seção Descrição do produto parece ser bastante curta e técnica. Vamos editar o texto para que seja mais envolvente para os nossos leitores.
@@ -89,11 +91,11 @@ Vamos ver essa transformação em ação.
 
 Ao concluir o seu documento, você vai querer garantir que os seus pontos chave sejam apresentados com clareza. Uma boa maneira de fazer isso é ver um resumo do documento. Da mesma forma, se você receber um documento grande do Word que não tenha tempo de ler na íntegra, o recurso de resumo é fundamental. Vamos criar um resumo no final do nosso documento.
 
-1. Insira o seguinte prompt no painel Copilot:
+1. Abra o painel do Copilot e insira o seguinte:
 
     +++Resuma este documento. Destaque os três principais pontos apresentados.+++
 
-1. Revise o resumo gerado e selecione **Insert** se quiser incluir o resumo no documento. Você também pode destacar qualquer parte do texto e copiá-la e colá-la no documento.
+1. Revise o resumo gerado e selecione **Insert** se quiser incluir o resumo inteiro no documento. Você também pode destacar qualquer parte do texto e copiá-la e colá-la no documento.
 
 > [!IMPORTANT]
 > O texto gerado pelo Copilot é inserido no ponto do cursor no documento. Certifique-se de ter navegado até o final do documento antes de inserir o conteúdo.

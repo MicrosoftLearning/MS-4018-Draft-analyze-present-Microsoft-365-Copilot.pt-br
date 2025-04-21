@@ -1,8 +1,8 @@
 # Laboratório 1 — Criar uma apresentação do início ao fim com o Copilot no PowerPoint
 
-Imagine que você é gerente de marketing de uma empresa chamada Contoso. Sua equipe está se preparando para uma importante reunião com o cliente, em que você precisa apresentar a estratégia da empresa para uma nova linha de produtos Chai Tea que será vendida na América Latina. Seu objetivo é criar uma apresentação atraente que destaque os recursos, benefícios e casos de uso do produto, garantindo que ele esteja de acordo com os padrões de identidade visual da empresa. Você já desenvolveu um plano de negócios para esse produto e quer usar esse conteúdo ao se preparar para a sua reunião. Você precisa colaborar com sua equipe e fazer com que a apresentação seja revisada pela sua gerente antes da reunião.
+Imagine que você é gerente de marketing de uma empresa chamada Contoso. Sua equipe está se preparando para uma importante reunião com o cliente, em que você precisa apresentar a estratégia da empresa para uma nova linha de produtos Chai Tea que será vendida na América Latina. Seu objetivo é criar uma apresentação atraente que destaque os recursos, benefícios e casos de uso do produto, garantindo que ela esteja de acordo com os padrões de identidade visual da empresa. Você já desenvolveu um plano de negócios para esse produto e quer usar esse conteúdo ao se preparar para a sua reunião. Você precisa colaborar com sua equipe e fazer com que a apresentação seja revisada pela sua gerente antes da reunião.
 
-Ao final deste laboratório, você será capaz de criar uma nova apresentação com base em um documento do Word, inserir uma imagem, editar texto, organizar a apresentação, incorporar padrões de identidade visual corporativa e enviar o rascunho da apresentação ao seu gerente para revisão usando o Copilot no PowerPoint.
+Ao final deste laboratório, você será capaz de criar uma nova apresentação com base em um documento do Word, inserir uma imagem, editar texto, organizar a apresentação, incorporar padrões de identidade visual da empresa e enviar um rascunho da apresentação ao seu gerente para revisão usando o Copilot no PowerPoint.
 
 ### Arquivo de exemplo
 
@@ -12,15 +12,15 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 #### Exercício 1 — Criar uma nova apresentação com base em um documento do Word
 
-1. Abra o PowerPoint e crie uma nova apresentação em branco.
+1. Abra o PowerPoint usando o aplicativo da área de trabalho ou em seu navegador em [powerpoint.new](https://powerpoint.new) e inicie uma nova apresentação.
 
 1. Selecione o ícone do **Copilot** e use o Copilot para gerar uma apresentação de rascunho usando este prompt:
 
-    +++Create a presentation about Contoso's Chai Tea based on +++
+    +++Create a presentation about Contoso's Chai Tea based on+++
 
-1. Na caixa de diálogo de prompt, insira uma barra (/) seguida do nome do arquivo **(Promotion Plan for Chai Tea in Latin America.docx)**. Se o arquivo não for preenchido na lista, selecione a seta para cima e, em seguida, **Anexar arquivos da nuvem**. Navegue até **Meus arquivos** e selecione o documento na pasta do OneDrive.
+1. Na caixa de diálogo de prompt, insira uma barra (/) seguida do nome do arquivo **(Promotion Plan for Chai Tea in Latin America.docx)**. Se o arquivo não for preenchido na lista, clique no botão de adição e em **Anexar**. Navegue até **Meus arquivos** e selecione o documento na pasta do OneDrive.
    
-1. O Copilot exibe um esboço de apresentação mostrando os possíveis slides e marcadores a serem incluídos em cada slide. Examine o tópico sugerido e selecione **Gerar slides** para continuar. O Copilot gera slides e conteúdo para cada um. Ele exibe os resultados no modo de exibição **Classificador de Slides**.
+1. O Copilot exibe um esboço de apresentação mostrando os possíveis slides e marcadores a serem incluídos em cada slide. Examine o tópico sugerido e selecione **Gerar slides** para continuar. O Copilot gera slides e conteúdo para cada um. A apresentação poderá exibir resultados no modo de exibição **Classificador de slides ** ou **Normal**.
 
 1. Revise os slides e selecione **Manter** para continuar.
 
@@ -30,11 +30,11 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 Como essa apresentação será feita pessoalmente e virtualmente, vamos dar ao nosso público alguns minutos para ingressar sem a possibilidade de perder informações importantes. O Copilot pode ajudar a gerar uma ideia e, em seguida, um slide quebra-gelo divertido a fim de manter nosso público ocupado enquanto outras pessoas estão ingressando.
 
-1. Vamos primeiro alterar o modo de exibição no PowerPoint. Selecione **Exibir -> Normal**.
+1. Primeiro, vamos mudar o modo de exibição no PowerPoint, se necessário. Selecione **Exibir -> Normal**.
 
 1. Retorne ao modo de exibição da faixa de opções **Página Inicial**.
 
-1. Abra o painel do Copilot e insira o seguinte prompt:
+1. Abra o painel do Copilot e insira o seguinte:
 
      +++Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.+++
 
@@ -46,7 +46,7 @@ Como essa apresentação será feita pessoalmente e virtualmente, vamos dar ao n
 
     +++Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation.+++
 
-    Agora, você tem uma ótima maneira de iniciar uma conversa entre os participantes da reunião. Vamos dar uma olhada na apresentação agora e ver como podemos torná-la ainda mais poderosa.
+    Agora você tem uma ótima maneira de iniciar uma conversa entre os participantes da reunião. Vamos dar uma olhada na apresentação agora e ver como podemos torná-la ainda mais poderosa.
 
 #### Exercício 3 — Inserir uma imagem
 
@@ -91,7 +91,7 @@ Ao revisar a apresentação, você pode encontrar tópicos em sua apresentação
 
     +++Organize this presentation.+++
 
-1. O Copilot responde, indicando que a organização dos slides substitui as seções existentes. Selecione **Sim, por favor** para continuar.
+1. O Copilot responderá, fornecendo sugestões para cada slide. Você pode optar por atualizar o conteúdo conforme desejar ou iterar sua solicitação para receber sugestões adicionais. 
 
 1. Verifique se sua apresentação tem uma sequência lógica e transições suaves entre os slides.
 
@@ -99,18 +99,18 @@ Ao revisar a apresentação, você pode encontrar tópicos em sua apresentação
 
 Quando estiver contente com a apresentação, use o Copilot no Outlook para elaborar um email para seu gerente revisar.
 
-1. Navegue até o Outlook e selecione **Novo email**.
+1. Inicie o Microsoft Outlook no navegador [outlook.office.com](https://outlook.office.com) ou aplicativo da área de trabalho e selecione **Novo email**.
 
 1. Selecione o ícone do **Copilot** na janela de composição de email.
 
 1. Digite o seguinte prompt:
 
-    +++Draft an email to my manager, [Manager's Name]. Peça uma revisão da apresentação que anexei a este email. Write the email in a casual tone.+++
+    +++Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
 
 1. Selecione **Redigir com o Copilot**.
 
-1. Revise o rascunho do email, faça as edições necessárias e envie-o.
+1. Revise o rascunho do email, faça as edições necessárias e envie-o para o destinatário.
 
 E assim, está tudo pronto para impressionar seu gerente com uma apresentação impecável. Boa apresentação!
 
-**Fim do laboratório 1**
+**Fim do Laboratório 1**
