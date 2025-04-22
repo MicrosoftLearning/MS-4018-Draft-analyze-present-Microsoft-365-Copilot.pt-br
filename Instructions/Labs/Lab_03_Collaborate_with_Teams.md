@@ -4,7 +4,7 @@ Imagine que você é um gerente da Contoso. Sua equipe depende de uma comunicaç
 
 #### Exercício 1 - Escreva uma mensagem envolvente para apresentar a sua ideia
 
-1. Abra o Microsoft Teams navegando até a seguinte URL: [teams.microsoft.com](https://teams.microsoft.com) ou usando o aplicativo da área de trabalho.
+1. Abra o Microsoft Teams navegando até a seguinte URL: [teams.microsoft.com](https://teams.microsoft.com) ou por meio do aplicativo da área de trabalho.
 
 1. Para começar, crie uma nova Equipe no chat da sua equipe para essa conversa. Selecione **New Team** no menu suspenso Chat.
 
@@ -16,9 +16,9 @@ Imagine que você é um gerente da Contoso. Sua equipe depende de uma comunicaç
 
 1. Selecione **Start a post** para abrir a janela de bate-papo.
 
-1. Escreva sua mensagem na caixa na parte inferior do bate-papo ou canal. Copie e cole o seguinte prompt na caixa de diálogo do prompt do Copilot: Hi Team! Estive pensando no Contoso Connect e em como podemos tornar o lançamento do produto mais empolgante para os nossos clientes. Tenho algumas ideias e quero ouvir mais ideias de cada um de vocês. O que você acha que deixaria os nossos clientes entusiasmados e prontos para trabalhar com o Connect?
+1. Escreva sua mensagem na caixa na parte inferior do bate-papo ou canal. Copie e cole o texto a seguir na caixa de diálogo: Hi Team! Estive pensando no Contoso Connect e em como podemos tornar o lançamento do produto mais empolgante para os nossos clientes. Tenho algumas ideias e quero ouvir mais ideias de cada um de vocês. O que você acha que deixaria os nossos clientes entusiasmados e prontos para trabalhar com o Connect?
 
-1. Selecione o ícone **Reescrever com o Copilot** na parte inferior da caixa de mensagem antes de postar a mensagem.
+1. Antes de postar a mensagem, selecione o ícone **Reescrever com o Copilot** na parte inferior da caixa de mensagem.
 
 1. Escolha a opção **Reescrever** para gerar outra versão de sua mensagem que melhore a sua gramática e o seu estilo. Você pode reescrever sua mensagem até 10 vezes, gerando uma nova versão a cada vez. Use as setas para a esquerda e para a direita abaixo do texto para navegar pelas versões.
 

@@ -11,26 +11,9 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-#### (Opcional) Exercício 1 — Importar notas 
 
-1. Abra o Microsoft Word no navegador [word.new](https://word.new) ou use o aplicativo da área de trabalho e crie um novo documento.
 
-1. Ative o Copilot selecionando o botão Copilot na guia **Início**.
-
-    > [!NOTE]
-    > Se você não quiser importar notas, acesse **Draft your content**.
-
-1. Insira o seguinte prompt no painel Copilot:
-
-    +++Redija uma atualização de relatório de projeto com base nas anotações sobre o chá Mystic Spice Premium Chai no OneNote. no painel do Copilot.+++
-
-    O Copilot extrai as informações solicitadas do OneNote e elabora o início do relatório no painel do Copilot.
-
-1. Selecione a opção **Inserir** para copiar esse texto para o documento do Word.
-
-Embora este seja um bom começo, apresentar informações com base em anotações não funcionará. Vamos ver como o Copilot no Word pode ajudá-lo a criar um relatório para compartilhar com suas partes interessadas.
-
-#### Etapa 2 - Redija o seu conteúdo
+#### Exercício 1 — Redijir o conteúdo
 
 Vamos criar um relatório de projeto usando a Análise de Mercado que você já reuniu. Em seguida, podemos editar esse arquivo e obter o conteúdo necessário para o nosso relatório.
 
@@ -42,7 +25,7 @@ Vamos criar um relatório de projeto usando a Análise de Mercado que você já 
 
     +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Reference a file** e o arquivo na lista suspensa quando ele estiver disponível no OneDrive.
+1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Referenciar um arquivo** e o arquivo na lista suspensa assim que estiver disponível no OneDrive.
    
 1. Selecione **Gerar**.
 
@@ -65,7 +48,7 @@ Vamos criar um relatório de projeto usando a Análise de Mercado que você já 
 
 1. Revise as opções reescritas, escolha a que você preferir e selecione **Substituir**.
 
-#### Exercício 3 - Converter texto em tabela
+#### Exercício 2 — Converter texto em tabela
 
 Embora o conteúdo do documento possa ser preciso, considere a sua legibilidade. Alguma seção funcionaria melhor se fosse apresentada como tabela? O Copilot pode converter facilmente texto em tabela por meio de um prompt.
 
@@ -87,11 +70,11 @@ Vamos ver essa transformação em ação.
 
 1. Revise o formato da tabela e faça os ajustes necessários.
 
-#### Exercício 4 - Resuma o seu documento
+#### Exercício 3 — Resumir seu documento
 
 Ao concluir o seu documento, você vai querer garantir que os seus pontos chave sejam apresentados com clareza. Uma boa maneira de fazer isso é ver um resumo do documento. Da mesma forma, se você receber um documento grande do Word que não tenha tempo de ler na íntegra, o recurso de resumo é fundamental. Vamos criar um resumo no final do nosso documento.
 
-1. Abra o painel do Copilot e insira o seguinte:
+1. Abra o painel do Copilot e insira o seguinte prompt:
 
     +++Resuma este documento. Destaque os três principais pontos apresentados.+++
 
