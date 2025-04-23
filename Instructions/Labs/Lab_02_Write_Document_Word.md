@@ -23,9 +23,9 @@ Vamos criar um relatório de projeto usando a Análise de Mercado que você já 
 
 1. Digite o seguinte prompt:
 
-    +++Create a project report that includes an executive summary, introduction, project objectives, and discussion. Use the linked document as a content resource.+++
+    +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Referenciar um arquivo** e o arquivo na lista suspensa assim que estiver disponível no OneDrive.
+1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Reference a file** e o arquivo na lista suspensa quando ele estiver disponível no OneDrive.
    
 1. Selecione **Gerar**.
 
@@ -74,7 +74,7 @@ Vamos ver essa transformação em ação.
 
 Ao concluir o seu documento, você vai querer garantir que os seus pontos chave sejam apresentados com clareza. Uma boa maneira de fazer isso é ver um resumo do documento. Da mesma forma, se você receber um documento grande do Word que não tenha tempo de ler na íntegra, o recurso de resumo é fundamental. Vamos criar um resumo no final do nosso documento.
 
-1. Abra o painel do Copilot e insira o seguinte prompt:
+1. Abra o painel do Copilot e insira o seguinte:
 
     +++Resuma este documento. Destaque os três principais pontos apresentados.+++
 

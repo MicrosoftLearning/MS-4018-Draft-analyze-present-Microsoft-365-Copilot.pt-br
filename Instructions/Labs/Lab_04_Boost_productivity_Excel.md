@@ -118,7 +118,7 @@ Depois de coletar insights sobre as tendências do mercado, você pode compartil
 
 1. Revise o rascunho fornecido pelo Copilot e selecione **Substituir** para incluir o conteúdo em seu email.
 
-1. Envie o e-mail para as partes interessadas.
+Ao trabalhar em seu próprio ambiente, você envia o email para os stakeholders.
 
 Agora você tem experiência prática usando o Copilot no Excel para analisar tendências de mercado, identificar padrões e gerar insights valiosos de seus dados. Continue experimentando novos prompts em seus arquivos do Excel para ganhar mais prática.
 
