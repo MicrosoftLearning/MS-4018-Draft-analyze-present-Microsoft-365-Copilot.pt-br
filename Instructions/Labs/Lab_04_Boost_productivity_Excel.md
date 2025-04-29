@@ -14,7 +14,7 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 Para ter uma ideia das tendências do mercado, você deve primeiro entender o desempenho geral dos produtos Chai da Contoso. Seu primeiro passo é obter uma visão geral dos dados e identificar as métricas-chave que podem orientar a sua análise.
 
-1. Abra o arquivo de exemplo que você baixou.
+1. Abra o arquivo de exemplo que você baixou do OneDrive.
 
 1. Selecione o ícone **Copilot** em **Página Inicial** para abrir o painel do Copilot.
 
@@ -25,6 +25,8 @@ Para ter uma ideia das tendências do mercado, você deve primeiro entender o de
     O Copilot responde com uma tabela que pode ser adicionada a uma nova planilha e uma resposta detalhando as métricas-chave.
 
 1. Selecione **Add to a new sheet** para incluir esses dados em sua pasta de trabalho do Excel.
+
+1. Revise a tabela. Quando terminar, selecione **Go back to data** para retornar à Planilha 1.
 
 #### Exercício 2 - Identificar tendências de vendas
 
@@ -38,6 +40,8 @@ Como gerente de vendas, é necessário identificar tendências nos dados de vend
 
 1. Revise a resposta do Copilot e se deseja adicionar o Gráfico Dinâmico a uma nova planilha.
 
+1. Se você adicionou um novo Gráfico Dinâmico, revise o gráfico e selecione **Voltar aos dados** para retornar à Planilha 1.
+   
 1. Para obter uma visualização rápida dos meses com as vendas mais bem-sucedidas, insira o seguinte prompt:
 
     +++Destaque os três meses com as maiores vendas totais.+++
@@ -56,9 +60,11 @@ Para otimizar suas ofertas de produtos, é preciso comparar as vendas de diferen
 
 1. O Copilot exibe o gráfico de barras. Selecione **Add to a new sheet**.
 
-    É possível ver uma grande variação de vendas nos meses de verão. Para entender que tipo de chá está vendendo melhor, você pode pedir ao Copilot para determinar qual categoria de produto teve melhor desempenho geral, digitando o seguinte prompt:
+1. Depois de revisar os resultados do gráfico de barras, selecione **Go back to data** para retornar à Planilha 1.
+   
+É possível ver uma grande variação de vendas nos meses de verão. Para entender que tipo de chá está vendendo melhor, você pode pedir ao Copilot para determinar qual categoria de produto teve melhor desempenho geral, digitando o seguinte prompt:
 
-    +++Resuma o total de vendas (unidades) do Artisanal Chai e do Premade Chai durante o verão.+++
+   +++Resuma o total de vendas (unidades) do Artisanal Chai e do Premade Chai durante o verão.+++
 
 #### Exercício 4 - Calcular o total de vendas
 
@@ -92,13 +98,13 @@ Por fim, vamos resumir os principais insights da análise. Esses insights ajudam
 
 1. No painel aberto do Copilot, insira o seguinte prompt:
 
-    +++Forneça um resumo dos principais insights da análise dos dados de tendências de mercado do chá Chai da Contoso.+++
+    +++Provide a summary of the key insights from the analysis of the Contoso Chai Tea market trends data.+++
 
 #### Exercício 7 – Envie seus insights para a equipe
 
 Depois de coletar insights sobre as tendências do mercado, você pode compartilhar as informações com as partes interessadas. Confira como o Copilot no Outlook pode ajudar:
 
-1. **Copie** a resposta gerada pelo Copilot no Excel.
+1. **Copie** a resposta de texto gerada pelo Copilot no Excel.
 
 1. Abra o Microsoft Outlook e selecione **Novo e-mail**.
 
@@ -112,7 +118,7 @@ Depois de coletar insights sobre as tendências do mercado, você pode compartil
 
 1. Revise o rascunho fornecido pelo Copilot e selecione **Substituir** para incluir o conteúdo em seu email.
 
-1. Envie o e-mail para as partes interessadas.
+Ao trabalhar em seu próprio ambiente, você envia o email para os stakeholders.
 
 Agora você tem experiência prática usando o Copilot no Excel para analisar tendências de mercado, identificar padrões e gerar insights valiosos de seus dados. Continue experimentando novos prompts em seus arquivos do Excel para ganhar mais prática.
 
