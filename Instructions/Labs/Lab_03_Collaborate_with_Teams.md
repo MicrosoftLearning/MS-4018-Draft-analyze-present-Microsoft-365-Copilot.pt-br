@@ -4,17 +4,18 @@ Imagine que você é um gerente da Contoso. Sua equipe depende de uma comunicaç
 
 #### Exercício 1 - Escreva uma mensagem envolvente para apresentar a sua ideia
 
-1. Abra o Microsoft Teams navegando até a seguinte URL: [teams.microsoft.com](https://teams.microsoft.com) ou por meio do aplicativo da área de trabalho.
+1. Abra o Microsoft Teams navegando até a seguinte URL: [teams.cloud.microsoft](https://teams.cloud.microsoft).
 
 1. Para começar, crie uma nova Equipe no chat da sua equipe para essa conversa. Selecione **New Team** no menu suspenso Chat.
 
     - Adicione a equipe: +++Pessoas e Cultura+++
     - Descrição: deixe em branco
     - Tipo de equipe: **Private**
-    - Nome do canal: +++Contoso Connect+++
-    - Adicionar membros: selecione **Skip**
+    - Nome do primeiro canal: +++Contoso Connect+++
 
-1. Selecione **Start a post** para abrir a janela de bate-papo.
+1. Selecione **Gerar** e, quando for solicitado a adicionar membros, selecione **Ignorar**.
+
+1. Selecione **Postar no canal** para abrir a janela da mensagem.
 
 1. Escreva sua mensagem na caixa na parte inferior do bate-papo ou canal. Copie e cole o texto a seguir na caixa de diálogo: Hi Team! Estive pensando no Contoso Connect e em como podemos tornar o lançamento do produto mais empolgante para os nossos clientes. Tenho algumas ideias e quero ouvir mais ideias de cada um de vocês. O que você acha que deixaria os nossos clientes entusiasmados e prontos para trabalhar com o Connect?
 
@@ -26,7 +27,7 @@ Imagine que você é um gerente da Contoso. Sua equipe depende de uma comunicaç
 
 1. Selecione **Ajustar** e, em seguida, selecione uma das opções que o Copilot apresenta para editar e atualizar a sua mensagem. Você pode personalizar a mensagem se ela ainda não estiver correta.
 
-1. Selecione **Personalizado** na opção **Ajustar**. Experimente tons personalizados como+++instrutivo+++ou+++envolvente+++.
+1. Selecione **Personalizado** na opção **Ajustar**. Experimente tons personalizados como+++instrutivo+++ou+++envolvente+++. Selecione o botão de seta para a direita para enviar a alteração.
 
 1. Selecione **Replace** quando estiver satisfeito com a nova mensagem. Se você selecionou um trecho parcial, somente esse texto será atualizado.
 
@@ -44,23 +45,17 @@ Agora você quer agendar uma reunião para debater alguns comentários com a sua
 
 1. Peça ao Copilot para sugerir o melhor horário para a reunião digitando o prompt a seguir:
 
-    +++Agendar uma reunião na próxima semana com base na minha disponibilidade.+++
+    +++Elabore um convite de reunião para discutir o próximo lançamento de produto, revisar o cronograma do projeto e atribuir tarefas.+++
 
-1. Examine o horário sugerido.
-
-1. Selecione **Editar** para adicionar contexto ao convite da reunião.
-
-1. Selecione a opção ** Draft with Copilot** e insira o seguinte prompt:
-
-    +++discutir o lançamento do próximo produto, revisar o cronograma do projeto e atribuir tarefas.+++
-
-    Feito isso, selecione **Generate** ou pressione Enter no teclado.
-
-1. O Copilot criará um rascunho do convite da reunião. Revise a sugestão, mas não selecione **Kep it**. Em seguida, insira o seguinte prompt:
+1. O Copilot cria um rascunho do convite da reunião. Revise a sugestão, mas não selecione **Kep it**. Em seguida, insira o seguinte prompt:
 
     +++Reescrever este email em um tom profissional.+++
 
-1. Revise a sugestão do Copilot e selecione **Keep it**.
+1. Examine a sugestão do Copilot. Quando estiver satisfeito com os resultados, solicite ao Copilot que:
+
+    +++Agende esta reunião com base na minha disponibilidade na próxima semana.+++
+
+1. Selecione a hora que funciona melhor para você. **Confirme** com base nos detalhes da resposta do Copilot. O Copilot adiciona a reunião ao seu calendário. Depois, você pode acessar os detalhes da reunião no seu calendário e convidar os participantes, ativar o Facilitator para a reunião e permitir que o Copilot reagende a reunião se surgirem conflitos.
 
 Ao usar os recursos do Copilot no Teams, você pode redigir, reescrever e ajustar mensagens facilmente, coletar insights de chats da equipe e agendar reuniões com eficiência. Agora, você pode usar essas ferramentas com confiança para otimizar seu fluxo de trabalho e atingir suas metas de colaboração com facilidade.
 

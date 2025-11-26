@@ -12,62 +12,68 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 #### Exercício 1 — Criar uma nova apresentação com base em um documento do Word
 
-1. Abra o PowerPoint usando o aplicativo da área de trabalho ou em seu navegador em [powerpoint.new](https://powerpoint.new) e inicie uma nova apresentação.
+1. Abra o PowerPoint do navegador em [powerpoint.new](https://powerpoint.new) e inicie uma nova apresentação.
 
-1. Selecione o ícone do **Copilot** e use o Copilot para gerar uma apresentação de rascunho usando este prompt:
+1. Selecione a opção **Copilot** na tela, localizada no canto superior esquerdo do slide em branco. Em seguida, selecione **Criar uma nova apresentação com arquivo** no menu para gerar um rascunho de apresentação.
 
-    +++Create a presentation about Contoso's Chai Tea based on+++
+1. Na caixa de diálogo de prompt exibida, insira o prompt:
 
-1. Na caixa de diálogo de prompt, insira uma barra (/) seguida do nome do arquivo **(Promotion Plan for Chai Tea in Latin America.docx)**. Se o arquivo não for preenchido na lista, clique no botão de adição e em **Anexar**. Navegue até **Meus arquivos** e selecione o documento na pasta do OneDrive.
-   
-1. O Copilot exibe um esboço de apresentação mostrando os possíveis slides e marcadores a serem incluídos em cada slide. Examine o tópico sugerido e selecione **Gerar slides** para continuar. O Copilot gera slides e conteúdo para cada um. A apresentação poderá exibir resultados no modo de exibição **Classificador de slides ** ou **Normal**.
+    +++Crie uma apresentação sobre o Chá Chai da Contoso com base em**
+
+1. Insira uma barra (/) seguida pelo nome do arquivo **(Plano de Promotion Plan for Chai Tea in Latin America.docx)**. Se o arquivo não for preenchido na lista (pode levar tempo para que os arquivos sejam sincronizados antes de estarem disponíveis), selecione o ícone **Carregar** e, em seguida, selecione **Anexar arquivos da nuvem**. Navegue até **Meus arquivos** e selecione o documento na pasta do OneDrive.
+
+1. Selecione o botão seta para a direita **(Enviar)** para enviar o prompt.
+
+    O Copilot exibe uma estrutura de tópicos de apresentação mostrando os possíveis slides e os pontos principais a serem incluídos em cada slide.
+
+1. Examine o tópico sugerido e selecione **Gerar slides** para continuar. O Copilot gera slides e conteúdo para cada um. A apresentação poderá exibir resultados no modo de exibição **Classificador de slides ** ou **Normal**.
+
+    O Copilot inicia a elaboração da estrutura para a apresentação proposta. Você pode adicionar, remover ou reordenar os tópicos propostos. Opcionalmente, você também pode selecionar **Configurações de Imagem** para escolher as imagens que o Copilot usará para criar os slides.
 
 1. Revise os slides e selecione **Manter** para continuar.
 
-1. Embora este seja um ótimo começo, recomenda-se personalizar um pouco mais o material para a sua apresentação. Vamos ver como melhorar o conteúdo.
+Embora este seja um ótimo começo, recomenda-se personalizar um pouco mais o material para a sua apresentação. Vamos ver como melhorar o conteúdo.
 
-#### Exercício 2 — Pedir ao Copilot para ajudar você a criar um slide de quebra-gelo
+#### Exercício 2 – Pedir ao Copilot para ajudá-lo a criar um slide adicional
 
-Como essa apresentação será feita pessoalmente e virtualmente, vamos dar ao nosso público alguns minutos para ingressar sem a possibilidade de perder informações importantes. O Copilot pode ajudar a gerar uma ideia e, em seguida, um slide quebra-gelo divertido a fim de manter nosso público ocupado enquanto outras pessoas estão ingressando.
+Como nosso público inclui pessoas com diferentes níveis de familiaridade com nossa empresa e suas ofertas, vamos adicionar um slide que apresente um breve histórico do chá chai.
 
 1. Primeiro, vamos mudar o modo de exibição no PowerPoint, se necessário. Selecione **Exibir -> Normal**.
 
 1. Retorne ao modo de exibição da faixa de opções **Página Inicial**.
 
-1. Abra o painel do Copilot e insira o seguinte:
+1. Abra o painel do Copilot, selecione dados fundamentados na **Web** e insira o seguinte prompt:
 
-     +++Can you help me brainstorm an icebreaker question that would be good for a global audience? Provide three options for me to choose from.+++
+     +++Você pode fornecer um breve histórico do chá chai?+++
 
-     O Copilot responde com sugestões para o seu quebra-gelo. Se nenhuma dessas perguntas se encaixar no que você está procurando, solicite que o Copilot gere mais sugestões.
+     O Copilot responde com um ótimo resumo da história do chá chai, obtido de sites públicos.
 
-     A primeira pergunta parece ótima para o nosso público, então vamos pedir ao Copilot para gerar um slide com essa pergunta, uma imagem correspondente e inseri-la como o primeiro slide da apresentação.
+     O Copilot Chat é ótimo para fazer perguntas, resumir ou pesquisar informações (da Web ou de trabalho), mas não tem a capacidade de editar ou estruturar nossa apresentação.
 
-1. Digite o seguinte prompt:
+1. Vamos pedir ao Copilot para ajudar a criar um slide sobre a história do chá chai. Vá para o primeiro slide, clique no ícone do **Copilot** (no canto superior esquerdo de qualquer slide) e selecione **Adicionar um slide**.
 
-    +++Use question 1 as the icebreaker, and generate a slide that includes a complementary image. Insert this slide as the first slide in the presentation.+++
+1. Na caixa de diálogo exibida, adicione o seguinte contexto:
 
-    Agora você tem uma ótima maneira de iniciar uma conversa entre os participantes da reunião. Vamos dar uma olhada na apresentação agora e ver como podemos torná-la ainda mais poderosa.
+    +++sobre o histórico do chá chai.+++
+
+Agora você adicionou profundidade à sua apresentação e é uma ótima maneira de aumentar o interesse dos participantes da reunião. Vamos dar uma olhada na apresentação agora e ver como podemos torná-la ainda mais poderosa.
 
 #### Exercício 3 — Inserir uma imagem
 
 Embora o Copilot inclua imagens à medida em que cria slides, você pode adicionar ou editar uma imagem que seja mais específica para a sua apresentação. Você pode pedir ao Copilot para incluir uma imagem da sua biblioteca corporativa aprovada, desde que o seu administrador tenha definido as configurações apropriadas, ou gerar uma imagem com base em uma ideia que você tem.
 
-1. Vamos pedir ao Copilot para inserir um diagrama no slide de título.
+1. Vamos pedir ao Copilot Chat para criar uma nova imagem.
 
-1. Navegue até o slide de título gerado pelo Copilot.
+1. Insira o seguinte prompt no painel do Copilot Chat:
 
-1. Insira o seguinte prompt no painel Copilot:
-
-    +++Replace the image on the Title slide with an image of a person sipping a warm cup of tea.+++
+    +++Crie uma imagem com uma pessoa saboreando uma xícara de chá quente.+++
 
     > [!NOTE]
     > Sinta-se à vontade para experimentar o seu próprio prompt e gerar uma imagem que você ache que funcionaria melhor na apresentação. Quanto mais detalhes você fornecer, melhor.
 
-1. O Copilot abre o recurso **Designer** e cria e exibe uma imagem que corresponde à sua solicitação.
+    O Copilot cria e exibe uma imagem que corresponde à sua solicitação.
 
-1. Depois que as opções forem mostradas, escolha **Inserir** a sua escolha.
-
-1. Exclua a imagem original e edite a nova para caber melhor no espaço do slide.
+1. Copie e cole a nova imagem para substituir a imagem padrão no slide História do chá chai.
 
 #### Exercício 4 — Editar o texto
 
@@ -75,13 +81,11 @@ Ao revisar a apresentação, você pode decidir que o texto gerado pelo Copilot 
 
 1. Navegue até o slide que contém o texto que você deseja editar.
 
-1. No painel do Copilot, insira o seguinte prompt:
+1. Selecione a caixa de texto a ser modificada e, em seguida, selecione o ícone Copilot (caneta) ao lado dela. Insira o seguinte prompt na caixa de diálogo exibida:
 
-    +++Edit this text to make it more conversational.+++
+    +++Expanda este texto para incluir detalhes adicionais.+++
 
-1. Copie e cole o texto que deseja editar na caixa de diálogo do prompt do Copilot e selecione **Enviar**.
-
-1. Revise as sugestões fornecidas pelo Copilot, recorte e cole-as no slide e faça os ajustes necessários.
+1. Examine as sugestões fornecidas pelo Copilot e selecione **Manter** para atualizar o texto selecionado.
 
 #### Exercício 5 — Organizar a apresentação
 
@@ -89,28 +93,10 @@ Ao revisar a apresentação, você pode encontrar tópicos em sua apresentação
 
 1. No painel do Copilot, insira o seguinte prompt:
 
-    +++Organize this presentation.+++
+    +++Dê dicas para melhorar minha apresentação, tanto de forma geral quanto slide por slide.+++
 
-1. O Copilot responderá, fornecendo sugestões para cada slide. Você pode optar por atualizar o conteúdo conforme desejar ou iterar sua solicitação para receber sugestões adicionais. 
+1. O Copilot responde, fornecendo sugestões gerais junto com sugestões para cada slide. Você pode usar essas dicas para modificar manualmente o conteúdo da sua coleção de slides ou usar os recursos do Copilot no aplicativo que você explorou neste exercício para melhorar sua apresentação.
 
-1. Verifique se sua apresentação tem uma sequência lógica e transições suaves entre os slides.
-
-#### (Opcional) Exercício — Enviar um rascunho para revisão
-
-Quando estiver contente com a apresentação, use o Copilot no Outlook para elaborar um email para seu gerente revisar.
-
-1. Inicie o Microsoft Outlook no navegador [outlook.office.com](https://outlook.office.com) ou aplicativo da área de trabalho e selecione **Novo email**.
-
-1. Selecione o ícone do **Copilot** na janela de composição de email.
-
-1. Digite o seguinte prompt:
-
-    +++Draft an email asking for a review of the presentation that I attached to this email. Write the email in a casual tone.+++
-
-1. Selecione **Redigir com o Copilot**.
-
-1. Revise o rascunho do email, faça as edições necessárias e envie-o para o destinatário.
-
-E assim, está tudo pronto para impressionar seu gerente com uma apresentação impecável. Boa apresentação!
+E assim, você está pronto para impressionar com uma apresentação impecável.
 
 **Fim do Laboratório 1**

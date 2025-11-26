@@ -14,22 +14,15 @@ Siga as etapas abaixo para carregar todos os arquivos necessários no **OneDrive
 
 1. Faça logon na máquina virtual fornecida pelo provedor de locatários como a conta de **administrador** local com a senha `Pa55w.rd`.
 
-2. Abra o aplicativo **OneDrive** digitando **OneDrive** na barra de pesquisa do Windows.
+1. Abra um navegador do **Microsoft Edge** e acesse o [Onedrive](https://onedrive.live.com/login/). Insira as credenciais fornecidas para fazer logon.
 
-3. No prompt **Endereço de email**, digite userx@yourtenant.onmicrosoft.com (fornecido pelo seu provedor de locatário) e selecione **Entrar**.
+1. Selecione **Seu OneDrive está pronto** e, em seguida, selecione **Criar ou carregar > Carregar arquivos**.
 
-4. Na tela **Enter password**, insira a senha (fornecida pelo provedor de locatário) para a conta de usuário e selecione **Entrar**.
+1. No **Windows Explorer**, selecione **Este Computador** > **Disco Local (C:)** e abra a pasta **MS-4018 ResourceFiles**.
 
-5. Se solicitado a **Automatically sign in to all desktop apps and websites on this device?**, selecione **Yes, all apps**.
+1. Selecione todos os arquivos na pasta **MS-4018 ResourceFiles** e, em seguida, selecione **Abrir**.
 
-6. Abra a sua pasta do OneDrive.
-   
-7. Em uma nova instância do **Explorador de Arquivos**, selecione **Este PC** > **Disco Local (C:)** e abra a pasta **ResourceFiles**.
-
-8. Selecione todos os arquivos na pasta **ResourceFiles** e arraste-os e solte-os na pasta do OneDrive.
-
-9. Quando o upload for concluído, você deverá ver **Carregado 29 itens para Meus arquivos** na parte inferior central da tela.
-
+1. Quando o upload for concluído, você verá **3 itens carregados em Meus arquivos** na parte inferior central da tela.
 
 ### Referenciar arquivos
 
