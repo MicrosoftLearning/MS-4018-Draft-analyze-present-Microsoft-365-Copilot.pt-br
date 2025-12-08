@@ -11,13 +11,11 @@ Ao longo deste laboratório, vamos criar prompots para o Microsoft 365 Copilot q
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-
-
 #### Exercício 1 — Redijir o conteúdo
 
 Vamos criar um relatório de projeto usando a Análise de Mercado que você já reuniu. Em seguida, podemos editar esse arquivo e obter o conteúdo necessário para o nosso relatório.
 
-1. Abra um novo documento no Word.
+1. Abra um novo documento do Word do navegador em [word.new](https://word.new).
 
 1. Selecione a experiência do **Copilot** na tela na parte superior do documento em branco.
 
@@ -25,9 +23,9 @@ Vamos criar um relatório de projeto usando a Análise de Mercado que você já 
 
     +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Reference a file** e o arquivo na lista suspensa quando ele estiver disponível no OneDrive.
-   
-1. Selecione **Gerar**.
+1. Adicione a referência do documento ao seu prompt inserindo manualmente uma barra seguida do nome do documento: **/Promotion Plan for Chai Tea in Latin America.docx**. Como alternativa, você pode selecionar **Adicionar conteúdo** e escolher o arquivo na lista suspensa assim que ele estiver disponível no OneDrive.
+
+1. Selecione a seta para a direita para enviar o prompt e **Gerar** a resposta.
 
 1. Revise o conteúdo redigido e selecione **Mantê-lo**.
 
@@ -54,7 +52,9 @@ Embora o conteúdo do documento possa ser preciso, considere a sua legibilidade.
 
 Vamos ver essa transformação em ação.
 
-1. Peça ao Copilot +++Adiciona uma lista de marcos do projeto e seus prazos usando a opção Copilot na tela.
+1. Posicione seu cursor no fim do documento.
+
+1. Peça ao Copilot +++Adiciona uma lista de marcos do projeto e seus prazos usando a opção Copilot na tela. Selecione **Gerar**.
 
 1. Selecione **Manter** para adicionar a seção ao seu Plano de Projeto.
 
@@ -68,7 +68,7 @@ Vamos ver essa transformação em ação.
 
 1. Selecione **Manter** para inserir a tabela no documento.
 
-1. Revise o formato da tabela e faça os ajustes necessários.
+1. Revise o formato da tabela e faça os ajustes necessários. Você pode então excluir a lista com marcadores da seção Marcos e prazos do projeto.
 
 #### Exercício 3 — Resumir seu documento
 
@@ -78,12 +78,12 @@ Ao concluir o seu documento, você vai querer garantir que os seus pontos chave 
 
     +++Resuma este documento. Destaque os três principais pontos apresentados.+++
 
-1. Revise o resumo gerado e selecione **Insert** se quiser incluir o resumo inteiro no documento. Você também pode destacar qualquer parte do texto e copiá-la e colá-la no documento.
+1. Revise o resumo gerado e selecione **Adicionar ao documento** (o sinal de adição) se quiser incluir todo o resumo no seu documento. Você também pode destacar qualquer parte do texto e copiá-la e colá-la no documento.
 
 > [!IMPORTANT]
 > O texto gerado pelo Copilot é inserido no ponto do cursor no documento. Certifique-se de ter navegado até o final do documento antes de inserir o conteúdo.
 
-Você pode então fazer ajustes manualmente no texto ou destacar o parágrafo de resumo e usar o Copilot para **Reescrever Automaticamente** conforme for necessário. Você também pode usar esse resumo como ponto de partida para uma mensagem do Teams ou do Outlook ao compartilhar o seu relatório de projeto com os participantes.
+Você pode fazer ajustes manualmente no texto ou realçar o conteúdo do resumo e usar o Copilot para **Reescrever automaticamente**, conforme necessário. Você também pode usar esse resumo como ponto de partida para uma mensagem do Teams ou do Outlook ao compartilhar o seu relatório de projeto com os participantes.
 
 Salve o seu documento para consulta futura. Você está pronto para compartilhar o documento para ele ser lido, ou pode usá-lo documento como ponto de partida de uma apresentação do PowerPoint.
 
